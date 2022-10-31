@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-<!--
-**lindazha0/lindazha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lindazha0&show_icons=true)    
+![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lindazha0&langs_count=3&theme=dracula)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
