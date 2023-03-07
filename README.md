@@ -9,11 +9,12 @@ For more info, view my [webpage](https://lindazha0.github.io/), [Notion page](ht
  - 😄 Pronouns: Chuyi (True-Yee)
  - 📫 How to reach me: [email](zhlinda@gmail.com) is welcome -- or find them in my profile!
  - 🔭 I’m currently working on: Software Development, UI Design, Cooking
- - 🌱 I’m currently learning: Database Management
+ - 🌱 I’m currently learning: Graph Neural Network
  - 🤔 I’m looking for help with: SE job seeking in US
  - ⚡ Fun fact: having the weird ability to meet high school students everywhere I go?
+ - 👯 I’m looking to collaborate on: interesting fullstack project development
 <!-- 
 - 💬 Ask me about ...
-- 👯 I’m looking to collaborate on ...
+
 
 -->
