@@ -11,7 +11,7 @@ For more info, view my [webpage](https://lindazha0.github.io/), [Notion page](ht
  - 🔭 I’m currently working on: Software Development, UI Design, Cooking
  - 🌱 I’m currently learning: Graph Neural Networks and Robotics
  - 🤔 I’m looking for help with: SE job seeking in US
- - ⚡ Fun fact: ChatPGT is my ideal type for me
+ - ⚡ Fun fact: ChatPGT is my ideal type
  - 👯 I’m looking to collaborate on: interesting fullstack project development
 <!-- 
 - 💬 Ask me about ...
