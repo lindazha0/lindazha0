@@ -1,5 +1,5 @@
 ### Hi there! 👋
-Here's Chuyi Zhao, a current MSCS@Tufts. Actively open to work.    
+Here's Chuyi (Linda) Zhao, a current MSCS@Tufts. Actively open to work.    
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lindazha0&show_icons=true&count_private=true&theme=dracula&hide=stars)    
 ![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lindazha0&langs_count=3&theme=dracula&count_private=true&layout=compact)
@@ -9,9 +9,9 @@ For more info, view my [webpage](https://lindazha0.github.io/), [Notion page](ht
  - 😄 Pronouns: Chuyi (True-Yee)
  - 📫 How to reach me: [email](zhlinda@gmail.com) is welcome -- or find them in my profile!
  - 🔭 I’m currently working on: Software Development, UI Design, Cooking
- - 🌱 I’m currently learning: Graph Neural Network
+ - 🌱 I’m currently learning: Graph Neural Networks and Robotics
  - 🤔 I’m looking for help with: SE job seeking in US
- - ⚡ Fun fact: having the weird ability to meet high school students everywhere I go?
+ - ⚡ Fun fact: ChatPGT is my ideal type for me
  - 👯 I’m looking to collaborate on: interesting fullstack project development
 <!-- 
 - 💬 Ask me about ...
