@@ -7,7 +7,7 @@ Here's Chuyi (Linda) Zhao, a current MSCS@Tufts. Actively open to work.
 ## About Me 🦋
 For more info, view my [webpage](https://lindazha0.github.io/), [Notion page](https://www.notion.so/lindazhao/Chuyi-s-Tech-Journey-2bffcd3c54dd4f179961db2d14ae828c), [LinkedIn](https://www.linkedin.com/in/chuyi-zhao/).
  - 🎀 Pronouns: Chuyi (True-Yee) (NOT "TREE" I'm not 🌲 please)
- - 📫 How to reach me: [email](zhlinda@gmail.com) is welcome -- or find them in my profile!
+ - 📫 How to reach me: email is welcome -- find them in my profile!
  - 🔭 I’m currently working on: Software Development, Design, Cooking
  - 🌱 I’m currently learning: Electric Design Emulation
  - 🤔 I’m pursuing: Software related career in the US
