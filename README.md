@@ -1,5 +1,5 @@
 ### Hi there! 👋
-Here's Chuyi (Linda) Zhao, a current MSCS@Tufts. Actively open to work.    
+Here's 赵楚一 Chuyi (Linda) Zhao, a current EDA Software Engineer.  
 
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=lindazha0&show_icons=true&count_private=true&theme=dracula&hide=stars)-->    
 ![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lindazha0&langs_count=3&theme=dracula&count_private=true&layout=compact)
